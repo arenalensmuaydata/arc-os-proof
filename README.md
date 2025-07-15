@@ -9,4 +9,4 @@ a logic-based, model-free reasoning system built in July 2025.
 - All predictions were frozen before match result  
 - Not open-source. Not reverse-engineerable. Not reproducible without license.  
 
-PDF proof-of-ownership: `ARC_OS_Snapshot_Proof.pdf`
+PDF proof-of-ownership: `ARC_OS_Snapshot_Proof_with_Hash.pdf`
